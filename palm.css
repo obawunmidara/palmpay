@@ -1,0 +1,51 @@
+.btn2{
+    float: right;
+}
+img{
+    width: 90px;
+    height: 90px;
+    border-radius: 80px;
+}
+.pt2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 19px;
+}
+.cont{
+    line-height: 0px;
+    margin-top: 20px;
+}
+input{
+    border: 2px solid rgba(29, 28, 28, 0,5);
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    padding: 3px;
+    text-align: center;
+}
+.inp{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+a{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.bt{
+    margin-top: 65px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.bb{
+    padding: 18px;
+}
